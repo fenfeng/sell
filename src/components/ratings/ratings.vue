@@ -9,6 +9,6 @@
 };
 </script>
 
-<style type="text/css">
+<style lang="stylus" rel="stylesheet/stylus">
 	
 </style>
