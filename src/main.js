@@ -8,11 +8,13 @@ Vue.use(VueRouter);
 /* eslint-disable no-new */
 let app = Vue.extend(App);
 
-let router = new VueRouter();
+let router = new VueRouter({
+    linkActiveClass: 'active'
+});
 
 router.map({
     '/goods': {
-      component: goods
+        component: goods
     },
     '/ratings': {
         component: ratings
