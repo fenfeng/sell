@@ -1,0 +1,14 @@
+<template>
+	<div class="header">
+		我是seller
+	</div>
+</template>
+
+<script type="text/javascript">
+	export default{
+};
+</script>
+
+<style type="text/css">
+	
+</style>
